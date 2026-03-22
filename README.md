@@ -1,11 +1,13 @@
+<div align="center">
+
 # Hi there, I'm Mahmoud! 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/main/name.gif" alt="Mahmoud" width="400px">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mahmoud+Hashim)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[YOUR_GITHUB_USERNAME]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Mahmoud's Profile Views">
+<br>
+
+![](https://komarev.com/ghpvc/?username=mahmoud-hashim-fahmy)
+
 </div>
 
 ### About Me
@@ -15,10 +17,10 @@ I am a university student deeply passionate about technology. I am looking forwa
 ### Connect with Me!
 
 <div align="center">
-  <a href="mailto:mahmoud.hashim.1st@gmail.com"><img src="https://img.shields.io/badge/Email-mahmoud.hashim.1st%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mahmoud-hashim-fahmy-517392357/"><img src="https://img.shields.io/badge/LinkedIn-mahmoud_hashim_fahmy-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://www.hackerrank.com/profile/mahmoud_hashim_2"><img src="https://img.shields.io/badge/HackerRank-mahmoud_hashim_2-blue?style=for-the-badge&logo=hackerrank" alt="HackerRank"></a>
-  <a href="https://leetcode.com/u/ma7m0ud_hashim/"><img src="https://img.shields.io/badge/LeetCode-ma7m0ud_hashim-blue?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
+  <a href="mailto:mahmoud.hashim.1st@gmail.com"><img src="https://img.shields.io/badge/Email-mahmoud.hashim.1st%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mahmoud-hashim-fahmy-517392357/"><img src="https://img.shields.io/badge/LinkedIn-mahmoud_hashim_fahmy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.hackerrank.com/profile/mahmoud_hashim_2"><img src="https://img.shields.io/badge/HackerRank-mahmoud_hashim_2-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://leetcode.com/u/ma7m0ud_hashim/"><img src="https://img.shields.io/badge/LeetCode-ma7m0ud_hashim-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </div>
 
 ### Languages and Tools:
