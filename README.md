@@ -30,7 +30,7 @@ I am a university student deeply passionate about technology. I am looking forwa
   <img src="https://img.shields.io/badge/Language-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Language-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Language-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Language-Java-007396?style=flat-square" alt="Java">
   <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Tool-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
