@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mahmoud+Hashim)](https://git.io/typing-svg)
 <div align="center">
+  
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F[YOUR_GITHUB_USERNAME]&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Mahmoud's Profile Views">
 </div>
 
